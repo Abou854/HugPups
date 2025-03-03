@@ -11,34 +11,34 @@
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://www.pexels.com/photo/short-coated-tan-dog-2253275/"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://www.pexels.com/photo/dog-looking-downward-1289555/"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://www.pexels.com/photo/close-up-photo-of-spaniel-dog-2655509"
   },
   {
     "name": "Lucy",
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://www.pexels.com/photo/black-long-coat-medium-dog-on-grey-concrete-pavement-132676/"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://www.pexels.com/photo/shallow-focus-photography-of-a-cavalier-king-charles-spaniel-1390361/"
   }
 ]
