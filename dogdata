@@ -25,20 +25,20 @@
     "age": "2 years old",
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "https://images.pexels.com/photos/2655509/pexels-photo-2655509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "/assets/dog5.jpeg"
   },
   {
     "name": "Lucy",
     "age": "6 years old",
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "https://images.pexels.com/photos/132676/pexels-photo-132676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "/assets/dog6.webp"
   },
   {
     "name": "Daisy",
     "age": "4 years old",
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "https://images.pexels.com/photos/1390361/pexels-photo-1390361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "/assets/dog7.webp"
   }
 ]
