@@ -11,14 +11,14 @@
     "age": "3 years old",
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "https://images.pexels.com/photos/2253275/pexels-photo-2253275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "/assets/dog3.webp"
   },
   {
     "name": "Max",
     "age": "5 years old",
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "https://images.pexels.com/photos/1289555/pexels-photo-1289555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "/assets/dog4.webp"
   },
   {
     "name": "Charlie",
